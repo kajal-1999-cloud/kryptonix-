@@ -1,0 +1,16 @@
+.LoginForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7rem;
+
+   
+}
+.formData{
+    padding: 1.2rem;
+    border-radius: 10px;
+    width: 40%;
+    height: 70%;
+    background-color: azure;
+
+}
